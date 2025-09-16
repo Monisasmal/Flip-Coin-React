@@ -20,3 +20,28 @@ Flip a virtual coin and keep track of Heads, Tails, and Total flips with a clean
 ## Screenshot
 
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/2e09dcc6-ff69-44be-aa09-4daee0e263c1" />
+
+## 🚀 Getting Started
+
+**1. Clone the repository**
+
+git clone https://github.com/your-username/flip-coin-react.git
+
+cd flip-coin-react
+
+**2. Install dependencies**
+
+npm install
+
+**3. Run the app**
+
+npm start
+
+## 🛠️ Technologies Used
+
+⚛️ React.js
+
+🎨 CSS3
+
+📦 npm
+
