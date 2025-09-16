@@ -1,12 +1,22 @@
-# React + Vite
+## 🎲 Flip Coin React 🎲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive Coin Flip Application built with React.js.
+Flip a virtual coin and keep track of Heads, Tails, and Total flips with a clean and responsive UI.
 
-Currently, two official plugins are available:
+## 👉 [Live Demo](https://flip-coin-react-manaswini-sasmals-projects.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+🎲 Flip Button – Instantly flip the coin with a single click.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🪙 Random Results – Get Heads or Tails randomly each time.
+
+📊 Statistics Tracker – Displays total flips, heads count, and tails count.
+
+🎨 Responsive UI – Simple, modern, and mobile-friendly design.
+
+⚡ Built with React – Fast, interactive, and reusable components.
+
+## Screenshot
+
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/2e09dcc6-ff69-44be-aa09-4daee0e263c1" />
